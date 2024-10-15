@@ -30,3 +30,10 @@ h <- 4
 AreaTriangulo <- b*h/2
 ```
 
+# Area rectangulo
+```{r}
+b <- 3
+h <- 6
+AreaRectangulo <- b*h
+```
+
