@@ -22,3 +22,11 @@ Area <- pi*r^2
 l <- 3
 AreaCuadrado <- l^2
 ```
+
+# Area triangulo
+```{r}
+b <- 2
+h <- 4
+AreaTriangulo <- b*h/2
+```
+
