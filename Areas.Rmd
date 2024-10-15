@@ -37,3 +37,10 @@ h <- 6
 AreaRectangulo <- b*h
 ```
 
+# Area trapecio
+```{r}
+AreaTrapecio<-function(b, B, H){
+  H*(b+B)/2
+}
+```
+
